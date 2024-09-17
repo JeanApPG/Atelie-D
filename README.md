@@ -1,2 +1,2 @@
 # Portifolio
- Portifólio profissional de Jean Ap Pohl Gasoto
+ Portifólio de apresentação profissional de Jean Ap Pohl Gasoto
