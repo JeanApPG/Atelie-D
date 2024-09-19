@@ -1,2 +1,2 @@
-# Portifolio
- Portifólio de apresentação profissional de Jean Ap Pohl Gasoto
+# E-Commerce
+ Projeto de E-Commerce
