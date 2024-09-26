@@ -1,2 +1,2 @@
-# E-Commerce
- Projeto de E-Commerce
+# Ateliê D+
+ E-Commerce de uma chocolateria.
